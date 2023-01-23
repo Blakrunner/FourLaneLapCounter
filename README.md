@@ -6,3 +6,4 @@ Could be used for other slot car tracks.</p>
 This is my first attempt at python, using pydroid 3 on my mobile phone, i created this for my sons as we couldn't find anything for lap timing.
 
 ![image](https://github.com/Blakrunner/FourLaneLapCounter/blob/main/Screenshot_20230123_145532.jpg)
+![image](https://github.com/Blakrunner/FourLaneLapCounter/blob/main/Screenshot_20230123_145553.jpg)
