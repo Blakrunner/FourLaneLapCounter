@@ -28,6 +28,6 @@ This is my first attempt at python, using pydroid 3 on my mobile phone, i create
 
 ![image](https://github.com/Blakrunner/FourLaneLapCounter/blob/main/Screenshot_20230123_145810.jpg)
 
-<b>Championship Leaderboard</b>Used only in championship races.
+<b>Championship Leaderboard</b> Used only in championship races.
 
 ![image](https://github.com/Blakrunner/FourLaneLapCounter/blob/main/Screenshot_20230123_145913.jpg)
