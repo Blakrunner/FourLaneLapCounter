@@ -3,6 +3,8 @@
     
     Video class for Four lane Lap Counter and Lap Timer
 
+    need help, bit messy code, need to add Racer class
+
 '''
 from os.path import isfile
 import numpy as np
