@@ -1,5 +1,5 @@
 # <b>Four Lane Lap Counter</b> with Motion detection
-<p>Lap counter for four lane slot cars, written in python on mobile device. I used camera for motion detection and lap timing, works to within 92-200 milliseconds cycle.
+<p>Lap counter for four lane slot cars, written in python on mobile device. I used camera for motion detection and lap timing, works to within 71-135 milliseconds cycle.
 Created to give easy access for four lane lap counting and lap timing by using mobile phone or tablet. 
 <i>Motion detection</i> uses the camera to trigger the lap counting and lap timing. 
 Could be used for other slot car tracks.</p><p>
